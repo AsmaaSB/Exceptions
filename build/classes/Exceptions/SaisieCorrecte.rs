@@ -1,2 +1,0 @@
-Exceptions.SaisieCorrecte
-Exceptions.NombreTropPetitException
